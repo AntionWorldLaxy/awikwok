@@ -15,11 +15,11 @@ version: "1.4.6.3"
 
 general:
   # Name of the Bot
-  name: "Champion Tickets"
+  name: "BrownZeBot"
   # Bot's Prefix
-  prefix: "-"
+  prefix: "BZ!"
   # Bot Token obtained from Discord Developer Portal
-  token: ""
+  token: "OTU0NjQ3MDYwMjA2OTg1MjE2.YjWKWw.ZYB1Q5-ky5MSlw_rVlxQTZ3OJU0"
   # Mention Support Role in new Tickets
   mention_support: false
   # Mention Ticket Author in new Tickets
